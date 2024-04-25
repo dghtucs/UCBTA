@@ -1,3 +1,4 @@
 site_name: UCBTA
 
-theme: material
+theme:
+  name: material
