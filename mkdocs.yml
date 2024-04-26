@@ -1,4 +1,6 @@
 site_name: UCBTA
-
+nav:
+  首页: "index.md"
+  原因: "about.md"
 theme:
   name: material
